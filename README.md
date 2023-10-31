@@ -41,7 +41,8 @@
 First of all, you need to go to the releases section of the project, then download the HackBar.jar file
 After downloading, you should go to burpsuite and add the file you downloaded in the extension section according to the video.
 
-![Screen Shot](./Image/ad-extantione.gif)
+<img src="./Image/ad-extantione.gif" />
+
 
 ## Upcoming Features/Modules
 
