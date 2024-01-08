@@ -32,6 +32,7 @@
 - XXE Snippets
 - Web Shells
 - Reverse Shell
+- SSTI
 
 ![Screen Shot](./Image/tool.png)
 
